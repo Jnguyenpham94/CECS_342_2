@@ -143,5 +143,8 @@ int testBasicLanguageConstructs() {
 }
 
 int main() {
-
+    printf("%d \n", twice(2));
+    printf("Factorial Test: \n");
+    testBasicLanguageConstructs();
+    
 }
