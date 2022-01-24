@@ -144,7 +144,10 @@ int testBasicLanguageConstructs() {
 
 int main() {
     printf("%d \n", twice(2));
-    printf("Factorial Test: \n");
+    printf("Fibonacci: \n");
+    printf("fib1 : %d \n", fib1(10));
+    printf("fib_acc : %d \n", fib_acc(10,10,10));
+    printf("fib2 : %d \n", fib2(10));
     testBasicLanguageConstructs();
-    
+    return 0;
 }
