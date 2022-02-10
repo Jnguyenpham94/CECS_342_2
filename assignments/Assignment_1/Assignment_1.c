@@ -1,5 +1,11 @@
 // Assignment_1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//The implementation of merge sort in C will require a temporary array. This array has to be
+/*
+* allocated on the heap(and not the stack).Make sure to do this correctly and try to
+understand why this is necessary.
+4. Write a simple main function(one in C and one in Haskell) with a few test cases.Make sure
+to cover edge cases like empty or invalid input.
+*/
 
 #include <stdlib.h>
 #include <stdio.h>
