@@ -1,7 +1,6 @@
-// Assignment_1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+
 //The implementation of merge sort in C will require a temporary array. This array has to be
-/*
-* allocated on the heap(and not the stack).Make sure to do this correctly and try to
+/*allocated on the heap(and not the stack).Make sure to do this correctly and try to
 understand why this is necessary.
 4. Write a simple main function(one in C and one in Haskell) with a few test cases.Make sure
 to cover edge cases like empty or invalid input.
@@ -21,7 +20,15 @@ void msort(int* a, int n) {// merge sort array a with n elements in place in C
 
 int main()
 {
-    printf("HELLO WORLD");
+    int testArray1[] = { 0,0,0,0,0,0,0 }; //same values
+    int testArray2[] = { 0,0,0,5,0,0,0 }; //same values with 1 diff
+    int testArray3[] = { 10,50,9,10,150,80,30 }; //bunch of different values
+    int testArray4[] = { 10,50, 0,30, 9,11,150,80}; //bunch 2
+    int testArray5[1]; //empty
+    char testArray6[] = { 'c', 'h', 'a', 'r'};
+    printf("%o", testArray6[0]);
+    //qsort2(10,10);
+    //msort(10, 10);
     return 0;
 }
 
