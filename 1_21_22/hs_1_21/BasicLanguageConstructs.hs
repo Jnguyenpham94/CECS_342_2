@@ -4,6 +4,12 @@
 -- Haskell vs C
 --
 -- Basic Language Constructs
+{-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
+{-# HLINT ignore "Redundant bracket" #-}
+{-# HLINT ignore "Use guards" #-}
+{-# HLINT ignore "Collapse lambdas" #-}
+{-# HLINT ignore "Redundant lambda" #-}
+{-# HLINT ignore "Avoid lambda" #-}
 
 
 module BasicLanguageConstructs where
