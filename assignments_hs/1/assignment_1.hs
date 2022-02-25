@@ -1,5 +1,6 @@
 quicksort1 :: (Ord a) => [a] -> [a]
 quicksort1 [] = []
+quicksort1 [x] = [x]
 quicksort1 (x:xs) =
   let smallerSorted = quicksort1 [a | a <- xs, a <= x]
       biggerSorted = quicksort1 [a | a <- xs, a > x]
@@ -19,5 +20,7 @@ firstHalf  xs = let { n = length xs } in take (div n 2) xs
 secondHalf xs = let { n = length xs } in drop (div n 2) xs
 
 main = do
-  print (quicksort1 [5,6,8,1,0,12,-3])
-  print (msort [-25,60,-8,5,0,12,-3,0])
+  print ("quicksort: ", quicksort1 [5,6,8,1,0,12,-3])
+  print ("quicksort: ", quicksort1 [5,0,0,0,13156,0,0,-3])
+  print ("mergesort: ", msort [-25,60,-8,5,0,12,-3,0])
+  print ("mergesort: ", msort [5,6,8,1,0,12,-3])
