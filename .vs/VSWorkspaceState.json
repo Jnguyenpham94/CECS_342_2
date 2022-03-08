@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assignments_c",
+    "\\assignments_c++"
   ],
-  "SelectedNode": "\\assignments",
+  "SelectedNode": "\\assignments_c#",
   "PreviewInSolutionExplorer": false
 }
