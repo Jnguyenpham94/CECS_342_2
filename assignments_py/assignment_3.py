@@ -18,9 +18,9 @@ class Person:
         return self.name + " " + str(self.age)
 
 if __name__ == "__main__":
-    print (f"Unsorted {numbers}")
+    # print (f"Unsorted {numbers}")
     numbers.sort()
-    print (f"Sorted {numbers}")
+    # print (f"Sorted {numbers}")
     people = [Person("Hal", 20),
     Person("Susann", 31),
     Person("Dwight", 19),
@@ -40,8 +40,12 @@ if __name__ == "__main__":
     Person("Natalie", 25)]
     for i in range(len(people)):
         print(str(people[i]))
-    people.sort()
-    print("SORTED:")
+    people.sort(key=lambda x : x.name)
+    print("SORT by name:")
     # TODO: figure out sorting method
+    for i in range(len(people)):
+        print(str(people[i]))
+    print("\nSORT by age: ")
+    people.sort(key=lambda x : x.age)
     for i in range(len(people)):
         print(str(people[i]))
