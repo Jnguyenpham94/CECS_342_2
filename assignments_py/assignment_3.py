@@ -38,8 +38,8 @@ if __name__ == "__main__":
     Person("Benny", 28),
     Person("Juan", 33),
     Person("Natalie", 25)]
-    for i in range(len(people)):
-        print(str(people[i]))
+    # for i in range(len(people)):
+    #     print(str(people[i]))
     people.sort(key=lambda x : x.name)
     print("SORT by name:")
     # TODO: figure out sorting method
