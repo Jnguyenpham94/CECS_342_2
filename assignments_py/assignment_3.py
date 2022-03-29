@@ -16,13 +16,17 @@ class Person:
         
     def __str__(self) -> str:
         return self.name + " " + str(self.age)
+    
+    def __repr__(self) -> str:
+        return self.name + " " + str(self.age)
 
 if __name__ == "__main__":
     # print (f"Unsorted {numbers}")
     numbers.sort()
-    # print (f"Sorted {numbers}")
+    print (f"Sorted numbers: \n {numbers}")
     people = [Person("Hal", 20),
     Person("Susann", 31),
+    Person("Natalie", 25),
     Person("Dwight", 19),
     Person("Kassandra", 21),
     Person("Lawrence", 25),
@@ -36,15 +40,16 @@ if __name__ == "__main__":
     Person("Rosalyn", 26),
     Person("Risa", 24),
     Person("Benny", 28),
-    Person("Juan", 33),
-    Person("Natalie", 25)]
+    Person("Juan", 33)]
 
     people.sort(key=lambda x : x.name)
     print("SORT by name:")
-    for i in range(len(people)):
-        print(str(people[i]))
+    # for i in range(len(people)):
+    #     print(str(people[i]))
+    print(people)
         
     print("\nSORT by age: ")
     people.sort(key=lambda x : x.age)
-    for i in range(len(people)):
-        print(str(people[i]))
+    # for i in range(len(people)):
+    #     print(str(people[i]))
+    print(people)
