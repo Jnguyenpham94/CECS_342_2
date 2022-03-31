@@ -9,20 +9,38 @@ Mac, 19; Romana, 27; Doretha, 32; Danna, 20; Zara, 23; Rosalyn, 26; Risa, 24; Be
 */
 
 #include <iostream>
+#include <string>
+using namespace std;
+
+class Person
+{
+public:
+    string name;
+    int age;
+
+    Person()
+    {
+        name = "NOBODY";
+        age = 0;
+    }
+
+    Person(string n, int a)
+    {
+        name = n;
+        age = a;
+    }
+};
+
 
 int main()
 {
-    
-    std::cout << "Hello World!\n";
+    int numbers[] = { 645.41, 37.59, 76.41, 5.31, -34.23, 1.11, 1.10, 23.46, 635.47, -876.32, 467.83, 62.25 };
+    int n = sizeof(numbers) / sizeof(numbers[0]);
+    //sort(numbers, n);
+    for(int i : numbers)
+    {
+        cout << i << endl;
+    }
+    Person people[] = { Person("Hal", 20), Person("Susann", 31), Person("Dwight", 19), Person("Kassandra", 21), Person("Lawrence", 25), Person("Cindy", 22), Person("Cory", 27), Person("Mac", 19), Person("Romana", 27), Person("Doretha", 32), Person("Danna", 20), Person("Zara", 23), Person("Rosalyn", 26), Person("Risa", 24), Person("Benny", 28), Person("Juan", 33), Person("Natalie", 25) };
+    return 1;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

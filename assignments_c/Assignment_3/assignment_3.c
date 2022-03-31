@@ -12,8 +12,8 @@ Mac, 19; Romana, 27; Doretha, 32; Danna, 20; Zara, 23; Rosalyn, 26; Risa, 24; Be
 
 int main()
 {
-    
-    std::cout << "Hello World!\n";
+    int numbers [] = {645.41, 37.59, 76.41, 5.31, -34.23, 1.11, 1.10, 23.46, 635.47, -876.32, 467.83, 62.25 }
+    printf("%d", numbers);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
