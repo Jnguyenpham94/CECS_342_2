@@ -10,6 +10,7 @@ Mac, 19; Romana, 27; Doretha, 32; Danna, 20; Zara, 23; Rosalyn, 26; Risa, 24; Be
 
 #include <iostream>
 #include <string>
+#include <algorithm>
 using namespace std;
 
 class Person
@@ -36,11 +37,17 @@ int main()
 {
     int numbers[] = { 645.41, 37.59, 76.41, 5.31, -34.23, 1.11, 1.10, 23.46, 635.47, -876.32, 467.83, 62.25 };
     int n = sizeof(numbers) / sizeof(numbers[0]);
-    //sort(numbers, n);
+    sort(numbers, numbers + n);
     for(int i : numbers)
     {
-        cout << i << endl;
+        cout << i << " ";
     }
     Person people[] = { Person("Hal", 20), Person("Susann", 31), Person("Dwight", 19), Person("Kassandra", 21), Person("Lawrence", 25), Person("Cindy", 22), Person("Cory", 27), Person("Mac", 19), Person("Romana", 27), Person("Doretha", 32), Person("Danna", 20), Person("Zara", 23), Person("Rosalyn", 26), Person("Risa", 24), Person("Benny", 28), Person("Juan", 33), Person("Natalie", 25) };
+    int pn = sizeof(people) / sizeof(people[0]);
+    sort(people, people + pn);
+    //for (string p : people)
+    //{
+    //    cout << people;
+    //}
     return 1;
 }
