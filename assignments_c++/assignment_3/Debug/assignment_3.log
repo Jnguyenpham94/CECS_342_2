@@ -1,26 +1,2 @@
 ﻿  assignment_3.cpp
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,23): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,31): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,38): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,45): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,52): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,59): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,65): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,71): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,71): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,78): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,87): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,87): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,95): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,103): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\assignment_3.cpp(38,103): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   assignment_3.vcxproj -> C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c++\assignment_3\Debug\assignment_3.exe
