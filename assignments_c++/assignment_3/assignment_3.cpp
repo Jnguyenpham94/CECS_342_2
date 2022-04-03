@@ -34,6 +34,13 @@ public:
         age = a;
     }
 
+    template <typename T>
+    bool operator< (T a)
+    {
+        return a < 0;
+    }
+
+
 };
 
 
