@@ -1,0 +1,14 @@
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Assn4.exe
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Assn4.deps.json
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Assn4.runtimeconfig.json
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Assn4.runtimeconfig.dev.json
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Assn4.dll
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Assn4.pdb
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.dll
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.pdb
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.genruntimeconfig.cache
