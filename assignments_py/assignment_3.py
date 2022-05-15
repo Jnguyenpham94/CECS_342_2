@@ -1,4 +1,5 @@
 # Generic programming with python
+# sorting the below numbers and the person objects(name, age)
 
 # 645.41, 37.59, 76.41, 5.31, -34.23, 1.11, 1.10, 23.46, 635.47, -876.32, 467.83, 62.2
 
@@ -43,12 +44,12 @@ if __name__ == "__main__":
     Person("Juan", 33)]
 
     people.sort(key=lambda x : x.name)
-    print("SORT by name:")
+    print("\nSORT by name:")
     # for i in range(len(people)):
     #     print(str(people[i]))
     print(people)
         
-    print("\nSORT by age: ")
+    print("SORT by age: ")
     people.sort(key=lambda x : x.age)
     # for i in range(len(people)):
     #     print(str(people[i]))
