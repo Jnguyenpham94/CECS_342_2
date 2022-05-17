@@ -7,7 +7,7 @@
 # Mac, 19; Romana, 27; Doretha, 32; Danna, 20; Zara, 23; Rosalyn, 26; Risa, 24; Benny, 
 # 28; Juan, 33; Natalie, 25
 
-
+# numbers to sort
 numbers = [645.41, 37.59, 76.41, 5.31, -34.23, 1.11, 1.10, 23.46, 635.47, -876.32, 467.83, 62.2]
 
 class Person:
@@ -25,6 +25,7 @@ if __name__ == "__main__":
     # print (f"Unsorted {numbers}")
     numbers.sort()
     print (f"Sorted numbers: \n {numbers}")
+    # Person objects to sort
     people = [Person("Hal", 20),
     Person("Susann", 31),
     Person("Natalie", 25),
@@ -54,3 +55,4 @@ if __name__ == "__main__":
     # for i in range(len(people)):
     #     print(str(people[i]))
     print(people)
+    
