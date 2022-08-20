@@ -12,3 +12,7 @@ C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj
 C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.dll
 C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.pdb
 C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.genruntimeconfig.cache
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\obj\Debug\netcoreapp3.1\Assn4.csproj.CopyComplete
+C:\Users\nguye\Documents\GitHub\CECS_342_2\assignments_c#\assignment_4\Assn4\bin\Debug\netcoreapp3.1\nunit.framework.dll

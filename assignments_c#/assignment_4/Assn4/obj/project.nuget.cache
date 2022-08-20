@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "OZSw6J5YTQ3eWyFya6s335gaiJrtKEQLcuG7G0B9J8AkXuN1WZbivzDAas1pdJyGOCRDTKs1X3r4xNabca5Srw==",
+  "dgSpecHash": "TnP7MjMJOUgjQYOki7HPl4ZGwzZv5+bAaMb30jqaUH7x9nSfnTK8nHaozmHFe2c+axrF2bfO+3mDDkztdltWzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nguye\\Documents\\GitHub\\CECS_342_2\\assignments_c#\\assignment_4\\Assn4\\Assn4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
